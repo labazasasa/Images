@@ -162,3 +162,4 @@ def process_folder_combined_years(base_input_folder, output_folder):
 
 prefix = "C:/Users/avoleksiuk/Desktop/Power BI/Керівництво/ДОРД/Sharepoint"
 process_folder_combined_years(prefix + "/Звіти з Шарепоінта", prefix + "/csv")
+#Enf of the script
